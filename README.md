@@ -1,2 +1,2 @@
 # Award-Recognition
-Award &amp; recognition Certiication
+Award &amp; recognition Certification
